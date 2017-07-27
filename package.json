@@ -1,0 +1,22 @@
+{
+  "name": "formation-devops",
+  "version": "1.0.0",
+  "description": "Projet Node JS pour la formation DevOps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elanglet/formation-devops.git"
+  },
+  "author": "Etienne LANGLET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elanglet/formation-devops/issues"
+  },
+  "homepage": "https://github.com/elanglet/formation-devops#readme",
+  "devDependencies": {
+    "should": "^11.2.1"
+  }
+}
